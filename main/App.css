@@ -19,11 +19,13 @@
   text-align: left;
   font-size: 40px;
   color: white;
+  font-family: "pretendardVariable"
 }
 
 .category {
   font-size: 24px;
   padding-left: 6vw;
+  font-family: "pretendardVariable"
 }
 
 #diner {
@@ -41,15 +43,18 @@
   display: inline-block;
   font-size: 16px;
   color: #4364F7;
+  font-family: "pretendardVariable"
 }
 
 .CardTitle {
   font-size: 16px;
+  font-family: "pretendardVariable"
 }
 
 .CardText {
   font-size: 15px;
   color: gray;
+  font-family: "pretendardVariable"
 }
 
 .Card {
